@@ -7,7 +7,7 @@
 
 - [Public Records](#public-records)
 - [Personal Information](#personal-information)
-- [Automated License Plate Reader](#automated-license-plate-reader)
+- [Automated License Plate Reader](#automated-license-plate-reader-alpr)
 
 ## Public Records
 - [Miami Dade Commercial Data Services](https://www.miami-dadeclerk.com/commercial_data_servicesb.asp)
