@@ -12,6 +12,10 @@
 ## Public Records
 - [Miami Dade Commercial Data Services](https://www.miami-dadeclerk.com/commercial_data_servicesb.asp)
     - Civil, code enforcement, criminal records, family, marriage, official records, and traffic data for sale.
+- [North Caroline Voting Records](https://www.ncsbe.gov/results-data)
+    - Voting elections results, voter history, voter registration, etc...
+- [Georgia Voter Registration](https://sos.ga.gov/index.php/elections/order_voter_registration_lists_and_files)
+    - Voter registration data for sale.
 
 ## Personal Information
 - [People Data Labs](https://www.peopledatalabs.com/)
