@@ -16,6 +16,8 @@
     - Voting elections results, voter history, voter registration, etc...
 - [Georgia Voter Registration](https://sos.ga.gov/index.php/elections/order_voter_registration_lists_and_files)
     - Voter registration data for sale.
+- [Maricopa Data Sales](https://mcassessor.maricopa.gov/data-sales/data-sales.php)
+    - Property data for sale.
 
 ## Personal Information
 - [People Data Labs](https://www.peopledatalabs.com/)
