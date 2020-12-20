@@ -1,6 +1,6 @@
 # Awesome Dystopian Data
 
-> A curated list of dystopian data!
+> A curated list of dystopian datasets!
 
 
 ## Contents
